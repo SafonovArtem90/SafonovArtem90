@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Сафонов+Артём&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack+QA+Automation+Engineer&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Сафонов+Артём&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack+QA+/+QA+Automation+Engineer&descAlignY=55&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=400&lines=QA+Automation+Engineer;7+лет+в+тестировании;Java+•+Appium+•+Selenium+•+RestAssured)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=400&lines=Full-Stack+QA+/+QA+Automation+Engineer;Java+•+Appium+•+Selenide+•+RestAssured+•+CI/CD+•+AI)](https://git.io/typing-svg)
 
 </div>
 
