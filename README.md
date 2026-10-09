@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Сафонов+Артём&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=600&lines=Full-Stack+QA+/+QA+Automation+Engineer;Java+•+Appium+•+Selenide+•+RestAssured+•+CI/CD+•+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=800&lines=Full-Stack+QA+/+QA+Automation+Engineer;Java+•+Appium+•+Selenide+•+RestAssured+•+CI/CD+•+AI)](https://git.io/typing-svg)
 
 </div>
 
