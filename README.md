@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Сафонов+Артём&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack+QA+Automation+Engineer&descAlignY=55&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=350&lines=QA+Automation+Engineer;7+лет+опыта;Java+•+Appium+•+Selenium)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=400&lines=QA+Automation+Engineer;7+лет+в+тестировании;Java+•+Appium+•+Selenium+•+RestAssured)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,13 +11,13 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const developer = {
+const aqa = {
   name: "Сафонов Артём",
-  role: "Full-Stack QA Automation Engineer",
+  role: "Full-Stack QA / QA Automation Engineer / QA",
   location: "Гомель, Беларусь",
-  experience: "7+ лет в тестировании и автоматизации",
+  experience: "10+ лет в тестировании и автоматизации",
   interests: ["Web Testing", "Mobile Testing", "API Testing", "CI/CD", "AI в тестировании"],
-  currentFocus: "Проектирование надёжных тест-наборов и внедрение современных практик качества",
+  currentFocus: "Разработка фреймворков автотестирования. Проектирование надёжных тест-наборов и внедрение современных практик качества",
   philosophy: "Качество — это не проверка, а проектирование",
   funFact: "Превращаю кофе в автотесты ☕"
 };
@@ -127,7 +127,7 @@ const developer = {
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FFFFFF&width=300&center=true&lines=🐛+«Работает+на+моей+машине»;✅+«Все+тесты+прошли!»;🚀+«Ноль+критических+багов!»)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FFFFFF&width=500&center=true&lines=🐛+«Работает+на+моей+машине»;✅+«Все+тесты+прошли!»;🚀+«Ноль+критических+багов!»)
 
 </div>
 
