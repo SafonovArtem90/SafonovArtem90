@@ -45,12 +45,6 @@ Full-Stack QA Automation Engineer с опытом более 7 лет в тес�
 
 ---
 
-### Активность
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SafonovArtem90&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### Ключевые проекты
 
 - **Альфа-Банк** — автотесты мобильного приложения iOS/Android и API, сокращение time-to-market на 90%
