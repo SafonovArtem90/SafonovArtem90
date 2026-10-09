@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Сафонов+Артём&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack+QA+/+QA+Automation+Engineer&descAlignY=55&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=400&lines=Full-Stack+QA+/+QA+Automation+Engineer;Java+•+Appium+•+Selenide+•+RestAssured+•+CI/CD+•+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&lines=Full-Stack+QA+/+QA+Automation+Engineer;Java+•+Appium+•+Selenide+•+RestAssured+•+CI/CD+•+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -127,7 +127,7 @@ const aqa = {
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FFFFFF&width=500&center=true&lines=🐛+«Работает+на+моей+машине»;✅+«Все+тесты+прошли!»;🚀+«Ноль+критических+багов!»)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FFFFFF&width=500&center=true&lines=«Работает+на+моей+машине»;«Все+тесты+прошли!»;«Ноль+критических+багов!»)
 
 </div>
 
