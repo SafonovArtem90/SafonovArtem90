@@ -1,7 +1,6 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Сафонов+Артём&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack+QA+/+QA+Automation+Engineer&descAlignY=55&descSize=16)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&lines=Full-Stack+QA+/+QA+Automation+Engineer;Java+•+Appium+•+Selenide+•+RestAssured+•+CI/CD+•+AI)](https://git.io/typing-svg)
 
 </div>
@@ -10,26 +9,23 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const aqa = {
-  name: "Сафонов Артём",
-  role: "Full-Stack QA / QA Automation Engineer / QA",
-  location: "Гомель, Беларусь",
-  experience: "10+ лет в тестировании и автоматизации",
-  interests: ["Web Testing", "Mobile Testing", "API Testing", "CI/CD", "AI в тестировании"],
-  currentFocus: "Разработка фреймворков автотестирования. Проектирование надёжных тест-наборов и внедрение современных практик качества",
-  philosophy: "Качество — это не проверка, а проектирование",
-  funFact: "Превращаю кофе в автотесты ☕"
-};
-```
+👨‍💻 Имя: Сафонов Артём
+🎭 Роль: Full-Stack QA / QA Automation Engineer / QA
+📍 Локация: Гомель, Беларусь
+⏳ Опыт: 10+ лет в тестировании и автоматизации
+🎯 Интересы: Web Testing, Mobile Testing, API Testing, CI/CD, AI в тестировании
+🔭 Текущий фокус: Разработка фреймворков автотестирования, проектирование надёжных тест-наборов и внедрение современных практик качества
+💭 Философия: Качество — это не проверка, а проектирование
+🧁 Факт: Оплату принимаю печеньками 🍪
+Чем занимаюсь:
 
 **What I do:**
 
-- 🚀 Разрабатываю фреймворки автотестов на Java для Web, Mobile (Android/iOS) и API
-- 💡 Создаю и поддерживаю автотесты с использованием Selenium, Selenide, Appium, RestAssured
-- 🧠 Проектирую надёжные тест-наборы и внедряю современные практики качества
-- 📚 Постоянно изучаю новые технологии и применяю AI для ускорения работы
-- 🤝 Выстраиваю процессы тестирования в командах и провожу code review
+🚀 Разрабатываю фреймворки автотестов на Java для Web, Mobile (Android/iOS) и API
+💡 Создаю и поддерживаю автотесты с использованием Selenium, Selenide, Appium, RestAssured
+🧠 Проектирую надёжные тест-наборы и внедряю современные практики качества
+📚 Постоянно изучаю новые технологии и применяю AI для ускорения работы
+🤝 Выстраиваю процессы тестирования в командах и провожу code review
 
 ---
 
