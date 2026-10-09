@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Сафонов+Артём&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack+QA+Automation+Engineer&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Full-Stack+QA+Automation+Engineer;7+лет+в+тестировании+и+автоматизации;Java+•+Appium+•+Selenium+•+RestAssured)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Full-Stack+QA+/+QA+Automation+Engineer;10+лет+в+тестировании+и+автоматизации;Java+•+Appium+•+Selenide+•+RestAssured)](https://git.io/typing-svg)
 
 </div>
 
